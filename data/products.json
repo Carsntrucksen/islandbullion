@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sil-bar-1oz-rcm",
+    "name": "1 oz Silver Bar (Assorted)",
+    "type": "bar",
+    "metal": "silver",
+    "weightOz": 1,
+    "purity": "999+",
+    "brand": "Assorted",
+    "sku": "AG-BAR-1OZ",
+    "premiumCad": 18.0,
+    "description": "Investment-grade 1 oz .999+ silver bar. Brand/assay may vary based on availability.",
+    "images": []
+  },
+  {
+    "id": "sil-coin-1oz-maple",
+    "name": "1 oz Silver Maple Leaf (Random Year)",
+    "type": "coin",
+    "metal": "silver",
+    "weightOz": 1,
+    "purity": "9999",
+    "brand": "Royal Canadian Mint",
+    "sku": "AG-COIN-ML-1OZ",
+    "premiumCad": 22.0,
+    "description": "1 oz .9999 silver Maple Leaf. Random year, brilliant uncirculated.",
+    "images": []
+  },
+  {
+    "id": "sil-coin-1oz-round",
+    "name": "1 oz Silver Round (Assorted)",
+    "type": "coin",
+    "metal": "silver",
+    "weightOz": 1,
+    "purity": "999",
+    "brand": "Assorted",
+    "sku": "AG-RND-1OZ",
+    "premiumCad": 16.0,
+    "description": "1 oz .999 silver round. Designs vary based on availability.",
+    "images": []
+  }
+]

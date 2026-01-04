@@ -1,0 +1,30 @@
+{
+  "note": "Edit these ranges to match your carrier pricing. Rates are examples.",
+  "freeShippingOverCad": 499,
+  "rates": [
+    {
+      "service": "Canada Post Expedited Parcel",
+      "region": "BC & AB",
+      "eta": "2\u20136 business days",
+      "priceCad": 24.99
+    },
+    {
+      "service": "Canada Post Expedited Parcel",
+      "region": "All other provinces",
+      "eta": "3\u20139 business days",
+      "priceCad": 29.99
+    },
+    {
+      "service": "Xpresspost",
+      "region": "Canada",
+      "eta": "1\u20134 business days",
+      "priceCad": 39.99
+    },
+    {
+      "service": "Priority / Courier (high value)",
+      "region": "Canada",
+      "eta": "1\u20133 business days",
+      "priceCad": 69.99
+    }
+  ]
+}
